@@ -1,6 +1,6 @@
 export const songsList = [{
     "id": "1",
-    "url": "../../music/Taylor Swift - Blank Space.mp3",
+    "url": "music/Taylor Swift - Blank Space.mp3",
     "time": "04:32",
     "title": "Taylor Swift - Blank Space",
     "artist": "Taylor Swift"
