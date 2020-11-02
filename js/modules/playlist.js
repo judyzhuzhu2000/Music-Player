@@ -1,6 +1,6 @@
-import { songsList } from "../data/songs.js";
-import PlayInfo from "./play-info.js";
-import TrackBar from "./track-bar.js";
+import { songsList } from "data/songs.js";
+import PlayInfo from "play-info.js";
+import TrackBar from "track-bar.js";
 
 const Playlist = (_ => {
     //data or state
